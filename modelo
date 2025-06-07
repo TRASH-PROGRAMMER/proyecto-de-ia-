@@ -1,0 +1,9 @@
+digraph Tree {
+node [shape=box, style="filled", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Dragon_Ball_Series <= 0.5\nsamples = 1244\nvalue = [929.0, 265.0, 3.0, 47.0]", fillcolor="#edaa79"] ;
+1 [label="samples = 115\nvalue = [0, 115, 0, 0]", fillcolor="#47e539"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="samples = 1129\nvalue = [929, 150, 3, 47]", fillcolor="#ea9b61"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
