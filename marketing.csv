@@ -1,0 +1,16 @@
+ID,frecuencia_compra,gasto_mensual,tiempo_cliente,participa_promociones,interaccion_email,clase_cliente
+1,4,30,2.5,Si,Siempre,Fiel
+2,1,10,0.5,No,Nunca,En_riesgo
+3,2,15,1.2,No,A_veces,Ocasional
+4,5,50,3.0,Si,Siempre,Fiel
+5,3,18,1.5,Si,A_veces,Ocasional
+6,0,5,0.3,No,Nunca,En_riesgo
+7,2,25,2.0,Si,Siempre,Ocasional
+8,1,8,0.8,No,Nunca,En_riesgo
+9,4,40,2.3,Si,A_veces,Fiel
+10,2,12,1.1,No,A_veces,Ocasional
+11,0,0,0.2,No,Nunca,En_riesgo
+12,3,22,2.0,Si,Siempre,Ocasional
+13,4,45,2.8,Si,Siempre,Fiel
+14,1,6,0.6,No,Nunca,En_riesgo
+15,2,19,1.4,Si,A_veces,Ocasional
